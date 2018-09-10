@@ -4,4 +4,6 @@ Web Application also have faiclity to select favourite movies wchich can be view
    It uses create-react-app and have redux library for state management functioanlity.
    it uses api from theMovieDb api for taking data from there.it is a good example of react and redux and react form functioanality.
    
+   live example of app: - 
+   
    
