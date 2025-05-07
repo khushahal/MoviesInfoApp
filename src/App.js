@@ -13,6 +13,8 @@ const About = () => (
   </div>
 )
 
+const test = '';
+
 class App extends Component {
 
   render() {
